@@ -1,1 +1,1 @@
-Amritansh and Gautham's Hackout Submission
+Rent-a-thlon provides users to rent and upload books (for renting). A user creates their own dashboard with some simple steps. That Dashboard contains the renting history, transaction history and many more.
